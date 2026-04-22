@@ -1,15 +1,15 @@
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/morphalex90/github-stats)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
 
 <div align="center">
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/morphalex90/github-stats">
+<img src="https://github.com/morphalex90/github-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/morphalex90/github-stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/morphalex90/github-stats/blob/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/morphalex90/github-stats/blob/generated/languages.svg#gh-light-mode-only" />
 </a>
 </div>
 
@@ -110,9 +110,9 @@ and retrieve the images.
       mine saved along with the GitHub entry in my password manager.
    1. Some users report that it can take some time for the personal access token
       to take effect. For more information, see
-      [#30](https://github.com/jstrieb/github-stats/issues/30).
+      [#30](https://github.com/morphalex90/github-stats/issues/30).
 1. Create a copy of this repository by clicking
-   [here](https://github.com/jstrieb/github-stats/generate).
+   [here](https://github.com/morphalex90/github-stats/generate).
    - Equivalently, click the big, green "Use this template" button at the top
      left of the page, then click "Create a new repository."
    - Note: this is **not** the same as forking a copy because it copies
@@ -167,11 +167,11 @@ and retrieve the images.
    following lines of code into your markdown content.
    - Replace `[USERNAME]` in the links below with your own username.
    ``` markdown
-   ![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-   ![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-   ![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-   ![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
-   [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+   ![](https://github.com/morphalex90/github-stats/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+   ![](https://github.com/morphalex90/github-stats/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+   ![](https://github.com/morphalex90/github-stats/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+   ![](https://github.com/morphalex90/github-stats/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+   [Created by `jstrieb/github-stats`.](https://github.com/morphalex90/github-stats)
    ```
 1. Star this repo if you like it!
 
@@ -179,7 +179,7 @@ and retrieve the images.
 ## Analyzing the Data
 
 Using the `github-stats` CLI (available on the
-[releases](https://github.com/jstrieb/github-stats/releases/latest) page) to
+[releases](https://github.com/morphalex90/github-stats/releases/latest) page) to
 run locally, you can dump raw statistics data to a JSON file using the
 `--json-output-file` command-line argument. 
 
@@ -188,7 +188,7 @@ run locally, you can dump raw statistics data to a JSON file using the
 sudo curl \
     --location \
     --output '/usr/local/bin/github-stats' \
-    'https://github.com/jstrieb/github-stats/releases/latest/download/github-stats_x86_64-linux'
+    'https://github.com/morphalex90/github-stats/releases/latest/download/github-stats_x86_64-linux'
 sudo chmod +x /usr/local/bin/github-stats
 
 github-stats --version
