@@ -134,49 +134,49 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #4F5D95; 
-  width: 31.941%;
+  width: 32.686%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 22.501%;
+  width: 22.412%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 20.150%;
+  width: 19.856%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 17.375%;
+  width: 17.122%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 4.085%;
+  width: 4.030%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 1.206%;
+  width: 1.188%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
-  width: 1.110%;
+  width: 1.094%;
 " class="progress-item"></span><span style="
   background-color: #f7523f; 
-  width: 0.679%;
+  width: 0.673%;
 " class="progress-item"></span><span style="
-  background-color: #178600; 
-  width: 0.391%;
+  background-color: #7355dd; 
+  width: 0.386%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 0.164%;
+  width: 0.161%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.121%;
+  width: 0.119%;
 " class="progress-item"></span><span style="
   background-color: #c1d026; 
-  width: 0.104%;
+  width: 0.102%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 0.039%;
+  width: 0.038%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
   width: 0.034%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
-  width: 0.030%;
+  width: 0.029%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.019%;
@@ -224,7 +224,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">PHP</span>
-  <span class="percent">31.94%</span>
+  <span class="percent">32.69%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -240,7 +240,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">22.50%</span>
+  <span class="percent">22.41%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -256,7 +256,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">20.15%</span>
+  <span class="percent">19.86%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -272,7 +272,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
-  <span class="percent">17.38%</span>
+  <span class="percent">17.12%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -288,7 +288,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">4.08%</span>
+  <span class="percent">4.03%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
@@ -304,7 +304,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">1.21%</span>
+  <span class="percent">1.19%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
@@ -320,7 +320,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">SCSS</span>
-  <span class="percent">1.11%</span>
+  <span class="percent">1.09%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
@@ -336,13 +336,13 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Blade</span>
-  <span class="percent">0.68%</span>
+  <span class="percent">0.67%</span>
 </li>
 <li style="animation-delay: 1350ms;">
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #178600;" 
+      style="fill: #7355dd;" 
       viewBox="0 0 16 16" 
       version="1.1" 
       width="16" 
